@@ -1,0 +1,10 @@
+Hora,Telefono,Tipo negocio,Destino comercial,Precio,Cereal,Cosecha,Tipo entrega,Pago
+26/06/2020 15:07,+5491150974971,A fijar,Rosario,Pizarra,Soja,2020,Disponible,Contra entrega
+26/06/2020 15:12,+5491150974971,A fijar,San Pedro,Merado a termino,Cebada,2021,Forward,Contra entrega
+29/06/2020 11:52,+5491168528798,A fijar,San Pedro,Merado a termino,Soja,2021,Disponible,A pesificar
+06/07/2020 12:25,+5491168528798,A precio,Bahia Blanca,Merado a termino,Maiz,2021,Forward,Anticipado
+06/07/2020 12:33,+5491150974971,A precio,Rosario,Precio mercado,Trigo,1920,Disponible,Contra entrega
+06/07/2020 12:58,+5491150974971,A fijar,Rosario,Mercado,Trigo,1920,Forward,Contra entrega
+06/07/2020 13:03,+5491150974971,A precio,San Pedro,Pizarra,Cebada,2021,Disponible,Contra entrega
+07/07/2020 12:37,+5491168528798,A precio,San Pedro,Pizarra,Maiz,1920,Disponible,Contra entrega
+07/07/2020 17:49,+5491150974971,A precio,Rosario,Mercado,Soja,1920,Disponible,Contra entrega

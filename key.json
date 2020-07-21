@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bot-grobocopatel-ogpttq",
+  "private_key_id": "74b98aaa0823a3d1b80ea158f64f6da7692c1018",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6TqogD5QwcoyM\nRxFie9XEk81gKy3hMgwsNYO0YgAQVaUQrr/OUAb4N/dGJ5RGjlCuZ63OAiRK4lSF\n7hMqk9P+tDQUBZAfyiGL0Njo+F1YFeYsbLa1bEFsQR8rQHl7yg2FYhmgvmAkx8lF\nzcW0bYArVbz8j3HrY1WEqz6sjJYZ40qr5z3jkuXb7L8VGqUCrA2mkcN8hsFp3BxC\nEh+mNLp2O331LPqMr14Gs9nJpGWD2aabooIPwL7aAYur1yEwpHLDYkm3trlf5wV6\nK5Sr8wgw50sYCBBGXMW7yxTdMinehBvBsYzXSBP1d+L7SLgvFdEonE2WdhD8bOEE\nu+7szb9fAgMBAAECggEAAgN9pTu7NKGC/Ap8mUg7XD+OCwm3Gjr/P1m+Day4Jspg\n2VhPgbxYXEXGlL8yxBHKX3LcFwuWNtT8EuKALzKf1PM/qNkSi2AU6BJJdeMmpyAS\nzSIeVhb7HLTA0H0xkvFGdM2a904iHeOm55aSGiF2LtcODttsth2XEV2vH2WkQwKu\nzSr1PRAIr6JBGTHhxdXlNnrxKYjOAWfhL5sBwrJbnfyrhbc5ZEAaf6qYH2yIitAa\nw3Gn0ymqx/C5wpbzDzRSmGjAlFBTHKmeclpBDo07TIVd/NvVN0RBKZvjjDihTlLG\nWD79NKDQgf8cidlybB9H4TCYW1X3Z6R8YhPYgq5eaQKBgQD19TkecCADSepiRW+j\n1FOQaJcawGGypn2Uj9fIf2kFzCnT5yUhdw7qIR6RXYPa8GrLcZPZGPznnIYeYP0a\nuvR7+kGThzqe5d+ptTOsUhoAGUrkbuF1PbEQVNFBywQ32o/Ut+RZ1F3dGtrCO8iC\nN2GSog2UwOKHdrDq+kiLpn526wKBgQDB6feVYl0rshNyF7dsvi/fh+RhfC/TS4rj\n6/vswz6Fb4l4CmM/Em+h4ReWexG8U1mQwZQLVWXGCMYbQimKzSGj4Nr2ngb4/Y81\ntgSHkBNks/tjkT3zLrCc/v2+T29KdSrZpLoAbnzl902LYO/J8NL2rO++hXePr/A8\nbtcqdoqkXQKBgAc8V5nVopt2KTcK4+Xl8S9mZEudLUKcM0WTlb2IQgaxoulg+26o\nmf+5SbTtE1v1hq7FgJv6aDZIHIn4QHnw1hBvpE46xDa4fIP5mLORFsK5+8IMoQVZ\n80OPuzg8SLt76o9PeaBK5xgCGj1slNF/35b4vX2Kzx89FqdTBZ9WHpJRAoGAUW7x\n3DgcrHbyF53CF9aewB6PWCkQ5Ij64NB/UWSE4wB+GH00RI53duHSSA2S2yWdnV7N\nzxyjytBwcY4NaA7RK8MH8T1X7ER/Wa0ApfVpT4cN8ThTbcaTwLqM0NkHAZvGzPOS\ncQ/1P5XlaLzitkl+Lr1dSQM/vIXEO3zIuzpg6rkCgYEAk7ndSJz+NhV0cnSP8G2R\ny+RePbrwOaYyTPe5v02tfOLVdboXVe8sc4nGrP3MeYKS86NP4LPKjZQ/lLftSQT1\nPwC7glELny2sY9aEOUQ1os3lAeE1JlmLPrdsrQePa25YYXAASgrGOLMZOgXJhyHs\nv+XSaNdT2XDHakUjPCmI7sU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "app-511@bot-grobocopatel-ogpttq.iam.gserviceaccount.com",
+  "client_id": "111084562621884119475",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/app-511%40bot-grobocopatel-ogpttq.iam.gserviceaccount.com"
+}

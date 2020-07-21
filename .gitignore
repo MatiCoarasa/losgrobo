@@ -1,0 +1,7 @@
+*.env
+*.idea/
+*.vscode/
+*.png
+*__pycache__/
+*build/
+*venv/
